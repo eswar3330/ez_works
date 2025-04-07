@@ -30,7 +30,7 @@ const USPSection = () => {
             </div>
           </div>
 
-          {/* USP Cards - Fixed version */}
+          {/* USP Cards */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {uspCards.map((card, idx) => (
               <div 
